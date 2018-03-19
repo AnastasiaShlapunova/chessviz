@@ -22,5 +22,6 @@ printf ("8 | r | h | e | q | k | e | h | r |\n");
 printf ("  |-------------------------------|\n");
 printf ("    a | b | c | d | e | f | g | h  \n");
 printf("\n");
+
 return 0;
 }
